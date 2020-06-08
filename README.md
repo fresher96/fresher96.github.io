@@ -1,2 +1,2 @@
 # fresher96.github.io
-My personal website
+I maintain my personal website in this repo.
