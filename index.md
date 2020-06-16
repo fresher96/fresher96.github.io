@@ -4,3 +4,6 @@ Welcome to my personal website...
 I don't maintain this website currently.  
 If you are interested, please consider following my [profile](https://www.linkedin.com/in/farouk-hjabo/) on LinkedIn or my [public page](https://www.facebook.com/fh.public/) on Facebook.
 
+## Other Links
+- [Contact](https://www.farouk-hjabo.com/contact)
+- [Blog](https://www.farouk-hjabo.com/blog)
