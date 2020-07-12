@@ -1,6 +1,6 @@
 # Contact Information
-Preferably, email farouk.hjabo@gmail.com, or message @farouk_hjabo on telegram for chat.  
-Mobile (WhatsApp & Telegram): +7 (986) 720-1555
+Preferably, email [farouk.hjabo@gmail.com](mailto:farouk.hjabo@gmail.com), or message me [@farouk_hjabo](https://t.me/farouk_hjabo) on telegram for chat.  
+Mobile (WhatsApp & Telegram): +7 (986) 720 15-55.
 
 ## Social Media
 - [LinkedIn](https://www.linkedin.com/in/farouk-hjabo/)
@@ -18,4 +18,4 @@ Mobile (WhatsApp & Telegram): +7 (986) 720-1555
 - farouk.hjabo@hotmail.com
 
 ## Postal Address
-Universitetskaya St, 1, Innopolis, Kazan, Republic of Tatarstan, Russia, P.O. Box: 420500
+Universitetskaya St, 1, Innopolis, Kazan, Republic of Tatarstan, Russia, P.O. Box: 420500.
