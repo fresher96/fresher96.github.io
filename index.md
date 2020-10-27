@@ -7,16 +7,10 @@
 <div class="footer-col-wrapper">
   <div class="footer-col footer-col-1">
     <ul class="contact-list">
-      <li class="p-name">
-        {%- if site.author -%}
-          {{ site.author | escape }}
-        {%- else -%}
-          {{ site.title | escape }}
-        {%- endif -%}
-        </li>
-        {%- if site.email -%}
-        <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        {%- endif -%}
+      <li> One </li>
+      <li> Two </li>
+      <li> Three </li>
+      <li> Four </li>
     </ul>
   </div>
 </div>
