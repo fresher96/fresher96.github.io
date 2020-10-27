@@ -1,4 +1,12 @@
-<!--#include file="header.html" -->
+<div>
+  <ul>
+    <li style="display: inline"><a href="https://www.farouk-hjabo.com/publications">Publications</a></li> | 
+    <li style="display: inline"><a href="https://www.farouk-hjabo.com/events">Events</a></li> | 
+    <li style="display: inline"><a href="https://www.farouk-hjabo.com/blog">Blog</a></li> | 
+    <li style="display: inline"><a href="https://www.farouk-hjabo.com/contacts">Contacts</a></li>
+  </ul>
+</div>
+
 
 # Farouk Hjabo
 Welcome to my personal website...
@@ -11,3 +19,16 @@ If you are interested, please consider following my [profile](https://www.linked
 - [Events](https://www.farouk-hjabo.com/events)
 - [Blog](https://www.farouk-hjabo.com/blog)
 - [Contacts](https://www.farouk-hjabo.com/contacts)
+
+
+<script>
+  if(!(window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1")) {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-178885064-1', 'auto');
+    ga('send', 'pageview');
+  }
+</script>
