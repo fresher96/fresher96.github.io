@@ -20,10 +20,10 @@
 <div class="footer-col-wrapper">
   <div class="footer-col footer-col-1">
     <ul class="contact-list">
-      <li>[Publications](https://www.farouk-hjabo.com/publication)</li>
-      <li>[Events](https://www.farouk-hjabo.com/event)</li>
+      <li><a href="https://www.farouk-hjabo.com/publications">Publications</a></li>
+      <li><a href="https://www.farouk-hjabo.com/events">Events</a></li>
       <li><a href="https://www.farouk-hjabo.com/blog">Blog</a></li>
-      <li><a href="https://www.farouk-hjabo.com/contact">Contacts</a></li>
+      <li><a href="https://www.farouk-hjabo.com/contacts">Contacts</a></li>
     </ul>
   </div>
 </div>
