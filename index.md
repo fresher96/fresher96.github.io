@@ -8,9 +8,9 @@
 <div class="footer-col-wrapper">
   <div class="footer-col footer-col-1">
     <ul>
-      <li style="display: inline"><a href="https://www.farouk-hjabo.com/publications">Publications | </a></li>
-      <li style="display: inline"><a href="https://www.farouk-hjabo.com/events">Events | </a></li>
-      <li style="display: inline"><a href="https://www.farouk-hjabo.com/blog">Blog | </a></li>
+      <li style="display: inline"><a href="https://www.farouk-hjabo.com/publications">Publications</a></li> | 
+      <li style="display: inline"><a href="https://www.farouk-hjabo.com/events">Events</a></li> | 
+      <li style="display: inline"><a href="https://www.farouk-hjabo.com/blog">Blog</a></li> | 
       <li style="display: inline"><a href="https://www.farouk-hjabo.com/contacts">Contacts</a></li>
     </ul>
   </div>
