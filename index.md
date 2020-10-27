@@ -2,28 +2,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-  <style>
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  li {
-    display: inline;
-  }
-  </style>
 </head>
 
 
 <div class="footer-col-wrapper">
   <div class="footer-col footer-col-1">
-    <ul class="contact-list">
-      <li><a href="https://www.farouk-hjabo.com/publications">Publications</a></li>
-      <li><a href="https://www.farouk-hjabo.com/events">Events</a></li>
-      <li><a href="https://www.farouk-hjabo.com/blog">Blog</a></li>
-      <li><a href="https://www.farouk-hjabo.com/contacts">Contacts</a></li>
+    <ul style=>
+      <li style="display: inline"><a href="https://www.farouk-hjabo.com/publications">Publications</a></li>
+      <li style="display: inline"><a href="https://www.farouk-hjabo.com/events">Events</a></li>
+      <li style="display: inline"><a href="https://www.farouk-hjabo.com/blog">Blog</a></li>
+      <li style="display: inline"><a href="https://www.farouk-hjabo.com/contacts">Contacts</a></li>
     </ul>
   </div>
 </div>
