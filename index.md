@@ -2,18 +2,32 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <style>
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+  }
+  </style>
 </head>
+
 
 <div class="footer-col-wrapper">
   <div class="footer-col footer-col-1">
     <ul class="contact-list">
-      <li> One </li>
-      <li> Two </li>
-      <li> Three </li>
-      <li> Four </li>
+      <li>[Publications](https://www.farouk-hjabo.com/publication)</li>
+      <li>[Events](https://www.farouk-hjabo.com/event)</li>
+      <li><a href="https://www.farouk-hjabo.com/blog">Blog</a></li>
+      <li><a href="https://www.farouk-hjabo.com/contact">Contacts</a></li>
     </ul>
   </div>
 </div>
+
 
 # Farouk Hjabo
 Welcome to my personal website...
@@ -25,4 +39,4 @@ If you are interested, please consider following my [profile](https://www.linked
 - [Publications](https://www.farouk-hjabo.com/publication)
 - [Events](https://www.farouk-hjabo.com/event)
 - [Blog](https://www.farouk-hjabo.com/blog)
-- [Contact](https://www.farouk-hjabo.com/contact)
+- [Contacts](https://www.farouk-hjabo.com/contact)
