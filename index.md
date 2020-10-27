@@ -1,21 +1,4 @@
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-
-
-<div class="footer-col-wrapper">
-  <div class="footer-col footer-col-1">
-    <ul>
-      <li style="display: inline"><a href="https://www.farouk-hjabo.com/publications">Publications</a></li> | 
-      <li style="display: inline"><a href="https://www.farouk-hjabo.com/events">Events</a></li> | 
-      <li style="display: inline"><a href="https://www.farouk-hjabo.com/blog">Blog</a></li> | 
-      <li style="display: inline"><a href="https://www.farouk-hjabo.com/contacts">Contacts</a></li>
-    </ul>
-  </div>
-</div>
-
+<!--#include file="header.html" -->
 
 # Farouk Hjabo
 Welcome to my personal website...
