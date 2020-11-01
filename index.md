@@ -3,7 +3,7 @@
     <li style="display: inline"><a href="https://www.farouk-hjabo.com/publications">Publications</a></li> | 
     <li style="display: inline"><a href="https://www.farouk-hjabo.com/events">Events</a></li> | 
     <li style="display: inline"><a href="https://www.farouk-hjabo.com/blog">Blog</a></li> | 
-    <li style="display: inline"><a href="https://www.farouk-hjabo.com/contacts">Contacts</a></li>
+    <li style="display: inline"><a href="https://www.farouk-hjabo.com/contact">Contacts</a></li>
   </ul>
 </div>
 
@@ -18,7 +18,7 @@ If you are interested, please consider following my [profile](https://www.linked
 - [Publications](https://www.farouk-hjabo.com/publications)
 - [Events](https://www.farouk-hjabo.com/events)
 - [Blog](https://www.farouk-hjabo.com/blog)
-- [Contacts](https://www.farouk-hjabo.com/contacts)
+- [Contacts](https://www.farouk-hjabo.com/contact)
 
 
 <script>
