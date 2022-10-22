@@ -4,7 +4,6 @@ Mobile (WhatsApp & Telegram): +7 (986) 720 15-55.
 
 ## Social Media and Public Profiles
 - [LinkedIn](https://www.linkedin.com/in/farouk-hjabo/)
-- [Public Facebook Page](https://www.facebook.com/fh.public/)
 - [Facebook](https://www.facebook.com/farouk.hjabo/)
 - [Quora](https://www.quora.com/profile/Farouk-Hjabo/)
 - [Reddit](https://www.reddit.com/user/fresher96/)
@@ -16,7 +15,6 @@ Mobile (WhatsApp & Telegram): +7 (986) 720 15-55.
 - [CodeForces](https://codeforces.com/profile/testment)
 
 ## Other Emails
-- fh@farouk-hjabo.com
 - f.hjabo@innopolis.university
 - farouk.hjabo@hotmail.com
 
